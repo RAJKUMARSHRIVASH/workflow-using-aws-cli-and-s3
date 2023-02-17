@@ -1,5 +1,5 @@
 Problem
 Using AWS and Syncing Files: Create a workflow that uses
- the AWS CLI to synchronize files between your local machine and
-  an S3 bucket. You can use the aws-actions/configure-aws-credentials 
-  action to configure your AWS credentials, and the run command to execute the aws s3 sync command.
+the AWS CLI to synchronize files between your local machine and
+an S3 bucket. You can use the aws-actions/configure-aws-credentials 
+action to configure your AWS credentials, and the run command to execute the aws s3 sync command.
